@@ -6,7 +6,7 @@
 📍 Durante esse período, descobri minha vocação como cientista de dados, aprofundando meus conhecimentos em estatística e programação em R e Python. Agora, cursando ciência de dados na FATEC - Ourinhos, busco constantemente inovar e aplicar meu conhecimento para unir ciência, tecnologia e criatividade.
 
 ## 🎯 No que estou me dedicando atualmente?
-- Cursando o 3º Termo do curso Ciência de Dados;
+- Cursando o 4º Termo do curso Ciência de Dados;
 - Estagiando na UOL Compass. (AWS Cloud Data Engineering);
 - Bolsista CNPq na modalidade de Desenvolvimento Tecnológico e Inovação;  
     📍Atuo em um projeto que visa a inclusão de mulheres na área de exatas e tecnologia, nesse projeto eu ministro aulas de tecnologia para meninas do 9º ano e ensino médio de uma escola estadual da cidade de Ourinhos - SP.
