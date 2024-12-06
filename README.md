@@ -7,10 +7,7 @@
 
 ## 🎯 No que estou me dedicando atualmente?
 - Cursando o 4º Termo do curso Ciência de Dados;
-- Estagiando na UOL Compass. (AWS Cloud Data Engineering);
-- Bolsista CNPq na modalidade de Desenvolvimento Tecnológico e Inovação;  
-    📍Atuo em um projeto que visa a inclusão de mulheres na área de exatas e tecnologia, nesse projeto eu ministro aulas de tecnologia para meninas do 9º ano e ensino médio de uma escola estadual da cidade de Ourinhos - SP.
-- Construção do meu portfólio (em Desenvolvimento): [Link Portfólio](https://gabrielpito92.github.io/)
+- Programador Trainee na Compass UOL;
 
 ## 🎓 Formação Acadêmica
 ### 📚 Faculdade de Tecnologia de Ourinhos - Fatec Ourinhos
