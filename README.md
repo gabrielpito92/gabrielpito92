@@ -5,12 +5,12 @@ Minha trajetória profissional é marcada pela junção de minha paixão pela pr
 
 ## 💡🗃️ Portfólio
 
-### Programação em Python
+### Programação em Python: [👀 Ver Todos](https://github.com/gabrielpito92/data_science_python)
 - Análise Exploratória, Engenharia de Atributos e Pré-processamento de Dados p/a E-commerce Analytics; [🔗 Acessar]()
 - Modelo de Machine Learning: O paciente vai ou não desenvolver uma doença hepática? (Classificação); [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/MLClassificacao_Doenca_Hepatica/Classificacao-Doenca-Hepatica.ipynb)
 - Modelo de Machine Learning: Estratégias Baseadas em Dados para Melhorar Vendas no E-commerce (Regressão). [🔗 Acessar]()
 
-### Desenvolvidos na FATEC (Python)
+### Desenvolvidos na FATEC (Python) [👀 Ver Todos](https://github.com/gabrielpito92/projetos_fatec)
 - Equipe Campeã Hackathon FATEC-Ourinhos 2024: Detecção de Anomalias e Ineficiência do Motor: [🔗 Acessar](https://github.com/gabrielpito92/projetos_fatec/blob/main/hackathon/Hackathon.ipynb)
 - Análise descritiva de um conjunto de dados sobre denúncias de violência contra mulher; [🔗 Acessar](https://github.com/gabrielpito92/projetos_fatec/blob/main/180_Denuncias_Violencia_Contra_Mulheres/Projeto_Integrador.ipynb)
 - Análise de um conjunto de dados do Instituto Nacional de Meteorologia (INMET) sobre a cidade Canela-RS: ENCHENTES NO ESTADO DO RIO GRANDE DO SUL - BRASIL. [🔗 Acessar](https://github.com/gabrielpito92/projetos_fatec/blob/main/INMET_enchentes_RS/canela_RS.ipynb)
