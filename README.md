@@ -6,8 +6,8 @@ Minha trajetória profissional é marcada pela junção de minha paixão pela pr
 ## 💡🗃️ Portfólio
 
 ### Programação em Python
-- Análise Exploratória, Engenharia de Atributos e Pré-processamento de Dados p/a E-commerce Analytics; [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/MLClassificacao_Doenca_Hepatica/Classificacao-Doenca-Hepatica.ipynb)
-- Modelo de Machine Learning: O paciente vai ou não desenvolver uma doença hepática? (Classificação); [🔗 Acessar]()
+- Análise Exploratória, Engenharia de Atributos e Pré-processamento de Dados p/a E-commerce Analytics; [🔗 Acessar]()
+- Modelo de Machine Learning: O paciente vai ou não desenvolver uma doença hepática? (Classificação); [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/MLClassificacao_Doenca_Hepatica/Classificacao-Doenca-Hepatica.ipynb)
 - Modelo de Machine Learning: Estratégias Baseadas em Dados para Melhorar Vendas no E-commerce (Regressão). [🔗 Acessar]()
 
 ### Desenvolvidos na FATEC (Python)
