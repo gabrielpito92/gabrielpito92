@@ -19,9 +19,6 @@ Minha trajetória profissional é marcada pela junção de minha paixão pela pr
 - Cursando o 4º Termo do curso Ciência de Dados;
 - Programador Trainee na Compass UOL - Studio Data & AI;
 
-## 💎 Cursos em Destaque
-- ...
-
 ## 🎓 Formação Acadêmica
 ### 📚 Faculdade de Tecnologia de Ourinhos - Fatec Ourinhos
 Curso Superior de Tecnologia (CST), Ciência de Dados  
