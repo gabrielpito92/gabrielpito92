@@ -5,14 +5,31 @@ Minha trajetória profissional é marcada pela junção de minha paixão pela pr
 # 💡🗃️ Portfólio
 
 ## 🐍 Python:
-#### Desenvolvidos em Cursos e Formações [[Ver Todos →]](https://github.com/gabrielpito92/data_science_python)
-- Modelo de Machine Learning: O paciente vai ou não desenvolver uma doença hepática? (Classificação); [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/MLClassificacao_Doenca_Hepatica/Classificacao-Doenca-Hepatica.ipynb)
-- Modelo de Machine Learning: Estratégias Baseadas em Dados para Melhorar Vendas no E-commerce (Regressão). [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/MLAnalise_Ecomerce/Vendas_Ecommerce.ipynb)
+### Desenvolvidos em Cursos e Formações: [[Ver Todos →]](https://github.com/gabrielpito92/data_science_python)
+- Limpeza e Pré-processamento de Dados com Numpy;
+- Análise de Dados Escolares com Pandas;
+- Análise Exploratória e Data Wrangling Para E-Commerce Analytics;
+- Engenharia de Atributos para E-Commerce Analytics; 
+- Pré-processamento de Dados para E-Commerce Analytics; 
+- ML: O Paciente irá Desenvolver uma Doença Hepática? (Classificação); [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/MLClassificacao_Doenca_Hepatica/Classificacao-Doenca-Hepatica.ipynb)
+- ML: Estratégias Baseadas em Dados para Melhorar Vendas no E-commerce (Regressão). [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/MLAnalise_Ecomerce/Vendas_Ecommerce.ipynb)
 
-#### Desenvolvidos na faculdade (FATEC) [[Ver Todos →]](https://github.com/gabrielpito92/projetos_fatec)
+### Desenvolvidos na faculdade (FATEC): [[Ver Todos →]](https://github.com/gabrielpito92/projetos_fatec)
 - Equipe Campeã Hackathon FATEC-Ourinhos 2024: Detecção de Anomalias e Ineficiência do Motor: [🔗 Acessar](https://github.com/gabrielpito92/projetos_fatec/blob/main/hackathon/Hackathon.ipynb)
 - Análise descritiva de um conjunto de dados sobre denúncias de violência contra mulher; [🔗 Acessar](https://github.com/gabrielpito92/projetos_fatec/blob/main/180_Denuncias_Violencia_Contra_Mulheres/Projeto_Integrador.ipynb)
 - Análise de um conjunto de dados do Instituto Nacional de Meteorologia (INMET) sobre a cidade Canela-RS: ENCHENTES NO ESTADO DO RIO GRANDE DO SUL - BRASIL. [🔗 Acessar](https://github.com/gabrielpito92/projetos_fatec/blob/main/INMET_enchentes_RS/canela_RS.ipynb)
+
+## 🌠 Spark:
+### Desenvolvidos em Cursos e Formações: [[Ver Todos →]]()
+- Manipulação de Dados com SparkSQL, PandaSQL, SQLAlchemy, PostgreSQL e Docker; [🔗 Acessar]()
+- Data Science Aplicada em Logística com Spark SQL. [🔗 Acessar]()
+
+## 📊 R:
+### Desenvolvidos em Cursos e Formações: [[Ver Todos →]]()
+- Machine Learning em Marketing Digital: Prevendo o número de usuários convertidos; [🔗 Acessar]()
+- Machine Learning em Marketing Digital: Prevendo a probabilidade de converção de leads; [🔗 Acessar]()
+- Análise de Séries Temporais no Mercado Financeiro. [🔗 Acessar]()
+
 
 # 🎯 No que estou me dedicando atualmente?
 - Cursando o 4º Termo do curso Ciência de Dados;
