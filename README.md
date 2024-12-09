@@ -10,7 +10,7 @@ Minha trajetória profissional é marcada pela junção de minha paixão pela pr
 - Análise de Dados Escolares com Pandas; [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/Dados_Escolares_Pandas/Dados_Escolares_Pandas.ipynb)
 - Análise Exploratória e Data Wrangling Para E-Commerce Analytics; [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/Analise_Exp_Ecommerce/Analise_Explo_Ecommerce.ipynb)
 - Engenharia de Atributos para E-Commerce Analytics; [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/Eng_Atributos_Ecommerce/Engenharia_Atrib.ipynb)
-- Pré-processamento de Dados para E-Commerce Analytics; [🔗 Acessar]()
+- Pré-processamento de Dados para E-Commerce Analytics; [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/Process_Dados_Ecommerce/Pre_Processamento.ipynb)
 - ML: O Paciente irá Desenvolver uma Doença Hepática? (Classificação); [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/MLClassificacao_Doenca_Hepatica/Classificacao-Doenca-Hepatica.ipynb)
 - ML: Estratégias Baseadas em Dados para Melhorar Vendas no E-commerce (Regressão). [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/MLAnalise_Ecomerce/Vendas_Ecommerce.ipynb)
 
