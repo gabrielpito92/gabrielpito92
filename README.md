@@ -8,7 +8,7 @@ Minha trajetória profissional é marcada pela junção de minha paixão pela pr
 ### Desenvolvidos em Cursos e Formações: [[Ver Todos →]](https://github.com/gabrielpito92/data_science_python)
 - Limpeza e Pré-processamento de Dados com Numpy; [🔗 Acessar](Limpeza_Dados_Numpy/Limpeza-Numpy.ipynb)  
 - Análise de Dados Escolares com Pandas; [🔗 Acessar](Dados_Escolares_Pandas/Dados_Escolares_Pandas.ipynb)
-- Análise Exploratória e Data Wrangling Para E-Commerce Analytics;
+- Análise Exploratória e Data Wrangling Para E-Commerce Analytics; [🔗 Acessar](Analise_Exp_Ecommerce/Analise_Explo_Ecommerce.ipynb)
 - Engenharia de Atributos para E-Commerce Analytics; 
 - Pré-processamento de Dados para E-Commerce Analytics; 
 - ML: O Paciente irá Desenvolver uma Doença Hepática? (Classificação); [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/MLClassificacao_Doenca_Hepatica/Classificacao-Doenca-Hepatica.ipynb)
