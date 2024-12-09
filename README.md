@@ -19,6 +19,7 @@ Minha trajetória profissional é marcada pela junção de minha paixão pela pr
 - Análise descritiva de um conjunto de dados sobre denúncias de violência contra mulher; [🔗 Acessar](https://github.com/gabrielpito92/projetos_fatec/blob/main/180_Denuncias_Violencia_Contra_Mulheres/Projeto_Integrador.ipynb)
 - Análise de um conjunto de dados do Instituto Nacional de Meteorologia (INMET) sobre a cidade Canela-RS: ENCHENTES NO ESTADO DO RIO GRANDE DO SUL - BRASIL. [🔗 Acessar](https://github.com/gabrielpito92/projetos_fatec/blob/main/INMET_enchentes_RS/canela_RS.ipynb)
 
+![Apresentação Perfil](images/espaco_menor.png) 
 ## 💼 Estágio Compass.uol (Engenharia de dados - 5 meses)
 Por razões de confidencialidade, o repositório está privado, uma vez que contém soluções para desafios e atividades do programa de bolsas, que não podem ser acessadas por estagiários atualmente no programa. Se você é um recrutador e gostaria de conhecer mais sobre os projetos desenvolvidos durante os cinco meses do meu estágio, entre em contato para solicitar acesso ao repositório. __Contatos:__ 📨 gabrielpito92@gmail.com | 📲 (14) 99643-7329  
 
