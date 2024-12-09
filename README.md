@@ -14,11 +14,11 @@ Minha trajetória profissional é marcada pela junção de minha paixão pela pr
 - Análise descritiva de um conjunto de dados sobre denúncias de violência contra mulher; [🔗 Acessar](https://github.com/gabrielpito92/projetos_fatec/blob/main/180_Denuncias_Violencia_Contra_Mulheres/Projeto_Integrador.ipynb)
 - Análise de um conjunto de dados do Instituto Nacional de Meteorologia (INMET) sobre a cidade Canela-RS: ENCHENTES NO ESTADO DO RIO GRANDE DO SUL - BRASIL. [🔗 Acessar](https://github.com/gabrielpito92/projetos_fatec/blob/main/INMET_enchentes_RS/canela_RS.ipynb)
 
-## 🎯 No que estou me dedicando atualmente?
+# 🎯 No que estou me dedicando atualmente?
 - Cursando o 4º Termo do curso Ciência de Dados;
 - Programador Trainee na Compass UOL - Studio Data & AI;
 
-## 🎓 Formação Acadêmica
+# 🎓 Formação Acadêmica
 ### 📚 Faculdade de Tecnologia de Ourinhos - Fatec Ourinhos
 Curso Superior de Tecnologia (CST), Ciência de Dados  
 Término em: dez de 2025 (cursando)  
