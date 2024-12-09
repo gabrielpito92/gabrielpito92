@@ -6,13 +6,13 @@ Minha trajetória profissional é marcada pela junção de minha paixão pela pr
 # 💡🗃️ Portfólio
 ## 🐍 Python:
 ### Desenvolvidos em Cursos e Formações: [[Ver Todos →]](https://github.com/gabrielpito92/data_science_python)
-- Limpeza e Pré-processamento de Dados com Numpy; [🔗 Acessar](Limpeza_Dados_Numpy/Limpeza-Numpy.ipynb)  
-- Análise de Dados Escolares com Pandas; [🔗 Acessar](Dados_Escolares_Pandas/Dados_Escolares_Pandas.ipynb)
-- Análise Exploratória e Data Wrangling Para E-Commerce Analytics; [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/Analise_Exp_Ecommerce/Analise_Explo_Ecommerce.ipynb)
-- Engenharia de Atributos para E-Commerce Analytics; [🔗 Acessar](Eng_Atributos_Ecommerce/Engenharia_Atrib.ipynb)
+- Limpeza e Pré-processamento de Dados com Numpy; [🔗 Acessar](data_science_python/Limpeza_Dados_Numpy/Limpeza-Numpy.ipynb)  
+- Análise de Dados Escolares com Pandas; [🔗 Acessar](data_science_python/Dados_Escolares_Pandas/Dados_Escolares_Pandas.ipynb)
+- Análise Exploratória e Data Wrangling Para E-Commerce Analytics; [🔗 Acessar](data_science_python/blob/main/Analise_Exp_Ecommerce/Analise_Explo_Ecommerce.ipynb)
+- Engenharia de Atributos para E-Commerce Analytics; [🔗 Acessar](data_science_python/blob/main/Eng_Atributos_Ecommerce/Engenharia_Atrib.ipynb)
 - Pré-processamento de Dados para E-Commerce Analytics; [🔗 Acessar]()
-- ML: O Paciente irá Desenvolver uma Doença Hepática? (Classificação); [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/MLClassificacao_Doenca_Hepatica/Classificacao-Doenca-Hepatica.ipynb)
-- ML: Estratégias Baseadas em Dados para Melhorar Vendas no E-commerce (Regressão). [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/MLAnalise_Ecomerce/Vendas_Ecommerce.ipynb)
+- ML: O Paciente irá Desenvolver uma Doença Hepática? (Classificação); [🔗 Acessar](data_science_python/MLClassificacao_Doenca_Hepatica/Classificacao-Doenca-Hepatica.ipynb)
+- ML: Estratégias Baseadas em Dados para Melhorar Vendas no E-commerce (Regressão). [🔗 Acessar](data_science_python/MLAnalise_Ecomerce/Vendas_Ecommerce.ipynb)
 
 ### Desenvolvidos na Faculdade (FATEC): [[Ver Todos →]](https://github.com/gabrielpito92/projetos_fatec)
 - Equipe Campeã Hackathon FATEC-Ourinhos 2024: Detecção de Anomalias e Ineficiência do Motor: [🔗 Acessar](https://github.com/gabrielpito92/projetos_fatec/blob/main/hackathon/Hackathon.ipynb)
