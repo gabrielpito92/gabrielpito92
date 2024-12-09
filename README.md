@@ -5,7 +5,7 @@ Minha trajetória profissional é marcada pela junção de minha paixão pela pr
 ![Apresentação Perfil](images/espaco_menor.png)  
 # 💡🗃️ Portfólio
 ## 🐍 Python:
-### Desenvolvidos em Cursos e Formações: [[Ver Todos →]](https://github.com/gabrielpito92/data_science_python)
+### Desenvolvidos Durante as Formações da Data Science Academy: [[Ver Todos →]](https://github.com/gabrielpito92/data_science_python)
 - Limpeza e Pré-processamento de Dados com Numpy; [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/Limpeza_Dados_Numpy/Limpeza-Numpy.ipynb)  
 - Análise de Dados Escolares com Pandas; [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/Dados_Escolares_Pandas/Dados_Escolares_Pandas.ipynb)
 - Análise Exploratória e Data Wrangling Para E-Commerce Analytics; [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/Analise_Exp_Ecommerce/Analise_Explo_Ecommerce.ipynb)
