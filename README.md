@@ -14,7 +14,7 @@ Minha trajetória profissional é marcada pela junção de minha paixão pela pr
 - Equipe Campeã Hackathon FATEC-Ourinhos 2024: Detecção de Anomalias e Ineficiência do Motor: [🔗 Acessar](https://github.com/gabrielpito92/projetos_fatec/blob/main/hackathon/Hackathon.ipynb)
 - Análise descritiva de um conjunto de dados sobre denúncias de violência contra mulher; [🔗 Acessar](https://github.com/gabrielpito92/projetos_fatec/blob/main/180_Denuncias_Violencia_Contra_Mulheres/Projeto_Integrador.ipynb)
 - Análise de um conjunto de dados do Instituto Nacional de Meteorologia (INMET) sobre a cidade Canela-RS: ENCHENTES NO ESTADO DO RIO GRANDE DO SUL - BRASIL. [🔗 Acessar](https://github.com/gabrielpito92/projetos_fatec/blob/main/INMET_enchentes_RS/canela_RS.ipynb)
-- Projeto sobre E-commerce para a matéria 'Machine Learning I' - (5º Termo - Ciência de Dados): [🔗 Acessar](https://github.com/gabrielpito92/projetos_fatec/blob/main/ML1_FATEC_Ecommerce/Readme.md)
+- Projeto sobre E-commerce para a matéria 'Machine Learning I' - (5º Termo - Ciência de Dados): [🔗 Acessar](https://github.com/gabrielpito92/projetos_fatec/blob/main/ML1_FATEC_Ecommerce/README.md)
 
 
 ## 💼 Estágio Compass.uol (Engenharia de dados - 5 meses)
