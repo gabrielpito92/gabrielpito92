@@ -8,24 +8,24 @@ Minha trajetória profissional é marcada pela junção de minha paixão pela pr
 ### 🤓 Desenvolvidos Durante as Formações da Data Science Academy: [[Ver Todos →]](https://github.com/gabrielpito92/data_science_python)
 - Limpeza e Pré-processamento de Dados com Numpy; [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/Limpeza_Dados_Numpy/Limpeza-Numpy.ipynb)  
 - Análise de Dados Escolares com Pandas; [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/Dados_Escolares_Pandas/Dados_Escolares_Pandas.ipynb)
-- Análise Exploratória e Data Wrangling Para E-Commerce Analytics; [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/Analise_Exp_Ecommerce/Analise_Explo_Ecommerce.ipynb)
-- Engenharia de Atributos para E-Commerce Analytics; [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/Eng_Atributos_Ecommerce/Engenharia_Atrib.ipynb)
-- Pré-processamento de Dados para E-Commerce Analytics; [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/Process_Dados_Ecommerce/Pre_Processamento.ipynb)
-- ML: O Paciente irá Desenvolver uma Doença Hepática? (Classificação); [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/MLClassificacao_Doenca_Hepatica/Classificacao-Doenca-Hepatica.ipynb)
-- ML: Estratégias Baseadas em Dados para Melhorar Vendas no E-commerce (Regressão). [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/MLAnalise_Ecomerce/Vendas_Ecommerce.ipynb)
+
 
 ### 🎓 Desenvolvidos na Faculdade (FATEC): [[Ver Todos →]](https://github.com/gabrielpito92/projetos_fatec)
 - Equipe Campeã Hackathon FATEC-Ourinhos 2024: Detecção de Anomalias e Ineficiência do Motor: [🔗 Acessar](https://github.com/gabrielpito92/projetos_fatec/blob/main/hackathon/Hackathon.ipynb)
 - Análise descritiva de um conjunto de dados sobre denúncias de violência contra mulher; [🔗 Acessar](https://github.com/gabrielpito92/projetos_fatec/blob/main/180_Denuncias_Violencia_Contra_Mulheres/Projeto_Integrador.ipynb)
 - Análise de um conjunto de dados do Instituto Nacional de Meteorologia (INMET) sobre a cidade Canela-RS: ENCHENTES NO ESTADO DO RIO GRANDE DO SUL - BRASIL. [🔗 Acessar](https://github.com/gabrielpito92/projetos_fatec/blob/main/INMET_enchentes_RS/canela_RS.ipynb)
 
+- #### Projeto de Ecommerce para matéria Machine Learning I, professor Vinicius Godoy (5º Termo - Ciência de Dados): [🔗 Acessar](https://github.com/gabrielpito92/projetos_fatec/blob/main/ML1_FATEC_Ecommerce/Readme.md)
+
+
 ## 💼 Estágio Compass.uol (Engenharia de dados - 5 meses)
 Por razões de confidencialidade, o repositório está privado, uma vez que contém soluções para desafios e atividades do programa de bolsas, que não podem ser acessadas por estagiários atualmente no programa. Se você é um recrutador e gostaria de conhecer mais sobre os projetos desenvolvidos durante os cinco meses do meu estágio, entre em contato para solicitar acesso ao repositório. __Contatos:__ 📨 gabrielpito92@gmail.com | 📲 (14) 99643-7329  
 
 ![Apresentação Perfil](images/espaco_menor.png)  
 # 🎯 No que estou me dedicando atualmente?
-- Cursando o 4º Termo do curso Ciência de Dados;
-- Programador Trainee na Compass UOL - Studio Data & AI;
+- Cursando o 5º Termo do curso Ciência de Dados;
+- Engenheiro de Dados Júnior na Compass UOL - Studio Data & AI;  
+- Atualmente estou alocado no Sicredi como Engenheiro e Analista de Dados na Equipe de Crédito PF.
 
 ![Apresentação Perfil](images/espaco_menor.png)  
 # 🎓 Formação Acadêmica
